@@ -1,3 +1,8 @@
+<details> <summary><b>📎 Full README Code (màu pastel lavender)</b></summary>
+markdown
+Sao chép
+Chỉnh sửa
+<!-- 🍇💜 Phạm Thị Phương Uyên — Pastel Lavender README 💜🍇 -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=3000&pause=1000&color=B57EDC&center=true&vCenter=true&width=435&lines=Hi+there~+I'm+Phạm+Thị+Phương+Uyên!;Frontend+Fairy+%F0%9F%92%96+%7C+Tech+Lover+%F0%9F%94%A5" alt="Typing SVG" />
@@ -57,4 +62,4 @@ Bus ticket management system made with Java + SQL Server 🚏
 
 📫 Connect With Me
 <table align="center"> <tr> <td align="center"><a href="https://www.facebook.com/phuonguyen274/"><img src="https://img.icons8.com/color/48/facebook.png" /><br />Facebook</a></td> <td align="center"><a href="mailto:puyen274@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png"/><br />Email</a></td> <td align="center"><a href="#"><img src="https://img.icons8.com/color/48/linkedin.png"/><br />LinkedIn</a></td> </tr> </table>
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJiYzhkNzk4YmMxOWI2MjFkODgxMDcyNzhlZjhmZDFlNzMyZGVhYiZjdD1n/aNqEFrYVnsS52/giphy.gif" width="250" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=B57EDC&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Have+a+magical+coding+day~+%F0%9F%92%AB" /> </p> ```
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJiYzhkNzk4YmMxOWI2MjFkODgxMDcyNzhlZjhmZDFlNzMyZGVhYiZjdD1n/aNqEFrYVnsS52/giphy.gif" width="250" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=B57EDC&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Have+a+magical+coding+day~+%F0%9F%92%AB" /> </p> ``` </details>
