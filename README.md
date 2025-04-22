@@ -2,8 +2,9 @@
 <h3 align="center">🎓 UFM Student | 💻 Frontend Developer | 🚀 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" alt="coding-girl" style="border-radius: 50%;" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" height="300" alt="coding-girl" style="border-radius: 50%;" />
 </p>
+
 
 
 ---
