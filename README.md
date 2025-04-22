@@ -2,8 +2,15 @@
 <h3 align="center">🎓 UFM Student | 💻 Frontend Developer | 🚀 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" height="300" alt="coding-girl" style="border-radius: 50%;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdycXB1ZW5sN3c1cWJtNzN4M2Rtd2JjOW5ma3plYjlmYTZ3ZG43ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eHQ5BsgBIBIGI/giphy.gif" height="300px" style="width: auto; height: 300px;" alt="coding-girl" />
 </p>
+
+
+
+
+
+
+
 
 
 
