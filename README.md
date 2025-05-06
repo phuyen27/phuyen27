@@ -61,7 +61,7 @@
 
 - 🌐 [Facebook](https://www.facebook.com/phuonguyen274/)
 - 📧 Email: **puyen274@gmail.com**
-- 💬 Always happy to chat about **Frontend**,  or anything tech! 🌟
+- 💬 Always happy to chat about **Frontend** or anything tech! 🌟
 
 ---
 
