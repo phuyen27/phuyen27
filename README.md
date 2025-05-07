@@ -1,35 +1,30 @@
-<h1 align="center">🌸 Hi there~ I'm <span style="color:#FF69B4;">Phạm Thị Phương Uyên</span> 👋</h1>
+<h1 align="center">🌿 Hi there~ I'm <span style="color:#66bb6a;">Phạm Thị Phương Uyên</span> 👋</h1>
 <h3 align="center">🎓 UFM Student | 💻 Frontend Developer | 🚀 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdycXB1ZW5sN3c1cWJtNzN4M2Rtd2JjOW5ma3plYjlmYTZ3ZG43ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eHQ5BsgBIBIGI/giphy.gif" height="300px" style="width: auto; height: 300px;" alt="coding-girl" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdycXB1ZW5sN3c1cWJtNzN4M2Rtd2JjOW5ma3plYjlmYTZ3ZG43ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eHQ5BsgBIBIGI/giphy.gif" height="300px" alt="coding-girl" />
 </p>
-
-
-
-
-
-
-
-
-
 
 ---
 
 ## 💁‍♀️ A Little Bit About Me
 
-- 🎓 Currently studying **Management Information Systems** at **University of Finance and Marketing (UFM)**
-- 💻 Passionate **Frontend Developer** who loves crafting clean UI & intuitive UX ✨
-- 🌐 Confident with **HTML**, **CSS**, **JavaScript**, **ReactJS**, and **Kotlin**
-- 🔧 Dabbled in backend & desktop with **C++**, **C#**, **Java**
-- 🧠 Solid understanding of **Data Structures & Algorithms**, **Computer Networks**, **Operating Systems**, and **Design Patterns**
-- 🗃️ Know my way around **SQL Server** & database design
-- 🎨 Obsessed with turning creative ideas into beautiful interfaces 💡
+<p align="center">
+  <img src="https://img.shields.io/badge/-Frontend%20Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tech%20Enthusiast-66bb6a?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+* 🎓 **UFM** | Studying **Management Information Systems**
+* 💻 Passionate about crafting **clean UI** & **intuitive UX**
+* 🌐 **Skills:** HTML, CSS, JavaScript, ReactJS, Kotlin
+* 🔧 Dabbled in backend & desktop with **C++**, **C#**, **Java**
+* 🧠 **Understanding** of Algorithms, Computer Networks, OS, and Design Patterns
+* 🗃️ **Database Knowledge** with **SQL Server**
+* 🎨 Obsessive about creating beautiful interfaces 💡
 
 ---
 
 ## 🛠️ My Toolbox
-
 <p align="center">
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -39,36 +34,33 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
-
 ---
 
 ## 📊 My GitHub at a Glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phuyen27&show_icons=true&hide_border=true&title_color=ff85a2&text_color=5e5e5e&icon_color=ff9aa2&bg_color=ffe6f0" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuyen27&layout=compact&hide_border=true&title_color=ff85a2&text_color=5e5e5e&icon_color=ff9aa2&bg_color=ffe6f0" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=phuyen27&show_icons=true&hide_border=true&title_color=66bb6a&text_color=5e5e5e&icon_color=81c784&bg_color=f0fff4" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuyen27&layout=compact&hide_border=true&title_color=66bb6a&text_color=5e5e5e&icon_color=81c784&bg_color=f0fff4" height="165" />
 </p>
 
-
 ---
-
-
-
 
 ## 📬 Let's Be Friends!
 
-- 🌐 [Facebook](https://www.facebook.com/phuonguyen274/)
-- 📧 Email: **puyen274@gmail.com**
-- 💬 Always happy to chat about **Frontend** or anything tech! 🌟
+* 🌐 [Facebook](https://www.facebook.com/phuonguyen274/)
+* 📧 **[puyen274@gmail.com](mailto:puyen274@gmail.com)**
+
+Always open to chat about **Frontend**, **Tech**, or just for fun! 🌟
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Frontend+Developer+%7C+Tech+Lover+%7C+UFM+Student;Always+Learning+New+Things+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=66bb6a&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Frontend+Developer+%7C+Tech+Lover+%7C+UFM+Student;Always+Learning+New+Things+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phuyen27&label=Profile%20Views&color=ff69b4&style=flat" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=phuyen27&label=Profile%20Views&color=66bb6a&style=flat" alt="visitor badge"/>
 </p>
