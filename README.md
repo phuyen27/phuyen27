@@ -82,6 +82,4 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=66bb6a&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Frontend+Developer+%7C+Tech+Lover+%7C+UFM+Student;Always+Learning+New+Things+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phuyen27&label=Profile%20Views&color=66bb6a&style=flat" alt="visitor badge"/>
-</p>
+
