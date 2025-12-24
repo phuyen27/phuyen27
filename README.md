@@ -49,28 +49,7 @@
 
 ---
 
-## 📬 Let's Be Friends!
 
-<p align="center">
-  <a href="https://www.facebook.com/phuonguyen274/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/__.gwenchanaa/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/phuyen27" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/phuonguyen-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:puyen274@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://puyendev.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Website"/>
-  </a>
-</p>
 
 <p align="center">
   Always open to chat about <strong>Frontend</strong>, <strong>Tech</strong>, or just for fun! 🌟
