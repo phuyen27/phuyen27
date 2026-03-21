@@ -27,7 +27,6 @@
 - 🔧 Experience with both **frontend & backend development**
 - 🎯 Always learning & improving every single day
 
----
 
 ## 🛠️ Tech Stack
 
